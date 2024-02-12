@@ -1,16 +1,15 @@
-### Hi there 👋
+### Sejam bem vindos ao meu perfil 👨‍🎓
 
-<!--
-**PROFJEDSON/profjedson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jedson José de Oliveira
 
-Here are some ideas to get you started:
+*Licenciado em Geografia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Licenciado em Informatica
+
+*Pós graduação em Educação Ambiental
+
+### Você pode entrar em contato atraves do 📧
+
+jedson.oliveira@escola.pr.gov.br
+
+
