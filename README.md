@@ -12,4 +12,6 @@ Meu nome é Jedson José de Oliveira
 
 jedson.oliveira@escola.pr.gov.br
 
+[Instagram](https://www.instagram.com/)
 
+![](https://media.tenor.com/ctFRS8NlezsAAAAj/tricolomania.gif)
